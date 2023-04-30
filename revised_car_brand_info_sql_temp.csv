@@ -1,0 +1,103 @@
+Brand,Model,Efficiency,PlugType,BodyStyle,Range
+Tesla,Model 3 Long Range Dual Motor,161,Type 2 CCS,Sedan,450
+Volkswagen,ID.3 Pure,167,Type 2 CCS,Hatchback,270
+Polestar,2,181,Type 2 CCS,Liftback,400
+BMW,iX3,206,Type 2 CCS,SUV,360
+Honda,e,168,Type 2 CCS,Hatchback,170
+Lucid,Air,180,Type 2 CCS,Sedan,610
+Volkswagen,e-Golf,168,Type 2 CCS,Hatchback,190
+Peugeot,e-208,164,Type 2 CCS,Hatchback,275
+Tesla,Model 3 Standard Range Plus,153,Type 2 CCS,Sedan,310
+Audi,Q4 e-tron,193,Type 2 CCS,SUV,400
+Mercedes,EQC 400 4MATIC,216,Type 2 CCS,SUV,370
+Nissan,Leaf,164,Type 2 CHAdeMO,Hatchback,220
+Hyundai,Kona Electric 64 kWh,160,Type 2 CCS,SUV,400
+BMW,i4,178,Type 2 CCS,Sedan,450
+Hyundai,IONIQ Electric,153,Type 2 CCS,Liftback,250
+Volkswagen,ID.3 Pro S,175,Type 2 CCS,Hatchback,440
+Porsche,Taycan Turbo S,223,Type 2 CCS,Sedan,375
+Volkswagen,e-Up!,166,Type 2 CCS,Hatchback,195
+MG,ZS EV,193,Type 2 CCS,SUV,220
+Mini,Cooper SE,156,Type 2 CCS,Hatchback,185
+Opel,Corsa-e,164,Type 2 CCS,Hatchback,275
+Tesla,Model Y Long Range Dual Motor,171,Type 2 CCS,SUV,425
+Skoda,Enyaq iV 50,179,Type 2 CCS,SUV,290
+Audi,e-tron GT,197,Type 2 CCS,Sedan,425
+Tesla,Model 3 Long Range Performance,167,Type 2 CCS,Sedan,435
+Volkswagen,ID.4,183,Type 2 CCS,SUV,420
+Volkswagen,ID.3 Pro,166,Type 2 CCS,Hatchback,350
+Volvo,XC40 P8 AWD Recharge,200,Type 2 CCS,SUV,375
+BMW,i3 120 Ah,161,Type 2 CCS,Hatchback,235
+Peugeot,e-2008 SUV,180,Type 2 CCS,SUV,250
+Audi,e-tron 50 quattro,231,Type 2 CCS,SUV,280
+Kia,e-Niro 64 kWh,173,Type 2 CCS,SUV,370
+Renault,Zoe ZE50 R110,165,Type 2 CCS,Hatchback,315
+Tesla,Cybertruck Tri Motor,267,Type 2 CCS,Pickup,750
+Mazda,MX-30,178,Type 2 CCS,SUV,180
+Nissan,Leaf e+,172,Type 2 CHAdeMO,Hatchback,325
+Lexus,UX 300e,193,Type 2 CHAdeMO,SUV,270
+CUPRA,el-Born,181,Type 2 CCS,Hatchback,425
+Renault,Zoe ZE50 R135,168,Type 2 CCS,Hatchback,310
+Mercedes,EQA,171,Type 2 CCS,SUV,350
+Tesla,Model S Long Range,184,Type 2,Liftback,515
+Hyundai,Kona Electric 39 kWh,154,Type 2 CCS,SUV,255
+Audi,e-tron Sportback 55 quattro,228,Type 2 CCS,SUV,380
+Skoda,CITIGOe iV,166,Type 2 CCS,Hatchback,195
+SEAT,Mii Electric,166,Type 2 CCS,Hatchback,195
+Kia,e-Soul 64 kWh,175,Type 2 CCS,SUV,365
+Opel,Ampera-e,173,Type 2 CCS,MPV,335
+Porsche,Taycan 4S,195,Type 2 CCS,Sedan,365
+Lightyear,One,104,Type 2 CCS,Liftback,575
+Aiways,U5,188,Type 2 CCS,SUV,335
+Audi,e-tron 55 quattro,237,Type 2 CCS,SUV,365
+Tesla,Roadster,206,Type 2 CCS,Cabrio,970
+Opel,Mokka-e,176,Type 2 CCS,SUV,255
+Skoda,Enyaq iV 80,183,Type 2 CCS,SUV,420
+Tesla,Model X Long Range,211,Type 2,SUV,450
+Honda,e Advance,168,Type 2 CCS,Hatchback,170
+DS,3 Crossback E-Tense,180,Type 2 CCS,SUV,250
+Renault,Twingo ZE,164,Type 2,Hatchback,130
+Citroen,e-C4,180,Type 2 CCS,SUV,250
+Tesla,Model S Performance,188,Type 2,Liftback,505
+Renault,Zoe ZE40 R110,161,Type 2 CCS,Hatchback,255
+Tesla,Model Y Long Range Performance,177,Type 2 CCS,SUV,410
+Nissan,Ariya 87kWh,198,Type 2 CCS,Hatchback,440
+Jaguar,I-Pace,232,Type 2 CCS,SUV,365
+Ford,Mustang Mach-E ER RWD,200,Type 2 CCS,SUV,450
+Porsche,Taycan 4S Plus,197,Type 2 CCS,Sedan,425
+Nissan,e-NV200 Evalia,200,Type 1 CHAdeMO,SPV,190
+Tesla,Cybertruck Dual Motor,261,Type 2 CCS,Pickup,460
+Renault,Kangoo Maxi ZE 33,194,Type 2,SPV,160
+Ford,Mustang Mach-E ER AWD,209,Type 2 CCS,SUV,430
+BMW,i3s 120 Ah,165,Type 2 CCS,Hatchback,230
+Skoda,Enyaq iV 80X,193,Type 2 CCS,SUV,400
+Porsche,Taycan Cross Turismo,217,Type 2 CCS,Station,385
+Byton,M-Byte 95 kWh 4WD,244,Type 2 CCS,SUV,390
+Sono,Sion,156,Type 2 CCS,Hatchback,225
+Kia,e-Niro 39 kWh,167,Type 2 CCS,SUV,235
+Audi,Q4 Sportback e-tron,188,Type 2 CCS,SUV,410
+Smart,EQ forfour,176,Type 2,Hatchback,95
+Ford,Mustang Mach-E SR AWD,206,Type 2 CCS,SUV,340
+Porsche,Taycan Turbo,215,Type 2 CCS,Sedan,390
+Volkswagen,ID.3 1st,171,Type 2 CCS,Hatchback,340
+Tesla,Model X Performance,216,Type 2,SUV,440
+Smart,EQ fortwo coupe,167,Type 2,Hatchback,100
+Ford,Mustang Mach-E SR RWD,194,Type 2 CCS,SUV,360
+Mercedes,EQV 300 Long,273,Type 2 CCS,SPV,330
+Fiat,500e Hatchback,168,Type 2 CCS,Hatchback,250
+Tesla,Cybertruck Single Motor,256,Type 2 CCS,Pickup,390
+Audi,e-tron Sportback 50 quattro,219,Type 2 CCS,SUV,295
+Skoda,Enyaq iV vRS,193,Type 2 CCS,SUV,400
+Skoda,Enyaq iV 60,181,Type 2 CCS,SUV,320
+Audi,e-tron S 55 quattro,270,Type 2 CCS,SUV,320
+Smart,EQ fortwo cabrio,176,Type 2,Cabrio,95
+Nissan,Ariya e-4ORCE 87kWh,207,Type 2 CCS,Hatchback,420
+Fiat,500e Convertible,168,Type 2 CCS,Cabrio,250
+Volkswagen,ID.3 Pro Performance,171,Type 2 CCS,Hatchback,340
+Kia,e-Soul 39 kWh,170,Type 2 CCS,SUV,230
+Byton,M-Byte 72 kWh 2WD,222,Type 2 CCS,SUV,325
+Nissan,Ariya 63kWh,191,Type 2 CCS,Hatchback,330
+Audi,e-tron S Sportback 55 quattro,258,Type 2 CCS,SUV,335
+Nissan,Ariya e-4ORCE 63kWh,194,Type 2 CCS,Hatchback,325
+Nissan,Ariya e-4ORCE 87kWh Performance,232,Type 2 CCS,Hatchback,375
+Byton,M-Byte 95 kWh 2WD,238,Type 2 CCS,SUV,400

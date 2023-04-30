@@ -1,0 +1,103 @@
+Brand,Model,Efficiency,PlugType,BodyStyle,Range
+Tesla,Model 3 Long Range Dual Motor,161 Wh/km,Type 2 CCS,Sedan,450 km
+Volkswagen,ID.3 Pure,167 Wh/km,Type 2 CCS,Hatchback,270 km
+Polestar,2,181 Wh/km,Type 2 CCS,Liftback,400 km
+BMW,iX3,206 Wh/km,Type 2 CCS,SUV,360 km
+Honda,e,168 Wh/km,Type 2 CCS,Hatchback,170 km
+Lucid,Air,180 Wh/km,Type 2 CCS,Sedan,610 km
+Volkswagen,e-Golf,168 Wh/km,Type 2 CCS,Hatchback,190 km
+Peugeot,e-208,164 Wh/km,Type 2 CCS,Hatchback,275 km
+Tesla,Model 3 Standard Range Plus,153 Wh/km,Type 2 CCS,Sedan,310 km
+Audi,Q4 e-tron,193 Wh/km,Type 2 CCS,SUV,400 km
+Mercedes,EQC 400 4MATIC,216 Wh/km,Type 2 CCS,SUV,370 km
+Nissan,Leaf,164 Wh/km,Type 2 CHAdeMO,Hatchback,220 km
+Hyundai,Kona Electric 64 kWh,160 Wh/km,Type 2 CCS,SUV,400 km
+BMW,i4,178 Wh/km,Type 2 CCS,Sedan,450 km
+Hyundai,IONIQ Electric,153 Wh/km,Type 2 CCS,Liftback,250 km
+Volkswagen,ID.3 Pro S,175 Wh/km,Type 2 CCS,Hatchback,440 km
+Porsche,Taycan Turbo S,223 Wh/km,Type 2 CCS,Sedan,375 km
+Volkswagen,e-Up!,166 Wh/km,Type 2 CCS,Hatchback,195 km
+MG,ZS EV,193 Wh/km,Type 2 CCS,SUV,220 km
+Mini,Cooper SE,156 Wh/km,Type 2 CCS,Hatchback,185 km
+Opel,Corsa-e,164 Wh/km,Type 2 CCS,Hatchback,275 km
+Tesla,Model Y Long Range Dual Motor,171 Wh/km,Type 2 CCS,SUV,425 km
+Skoda,Enyaq iV 50,179 Wh/km,Type 2 CCS,SUV,290 km
+Audi,e-tron GT,197 Wh/km,Type 2 CCS,Sedan,425 km
+Tesla,Model 3 Long Range Performance,167 Wh/km,Type 2 CCS,Sedan,435 km
+Volkswagen,ID.4,183 Wh/km,Type 2 CCS,SUV,420 km
+Volkswagen,ID.3 Pro,166 Wh/km,Type 2 CCS,Hatchback,350 km
+Volvo,XC40 P8 AWD Recharge,200 Wh/km,Type 2 CCS,SUV,375 km
+BMW,i3 120 Ah,161 Wh/km,Type 2 CCS,Hatchback,235 km
+Peugeot,e-2008 SUV,180 Wh/km,Type 2 CCS,SUV,250 km
+Audi,e-tron 50 quattro,231 Wh/km,Type 2 CCS,SUV,280 km
+Kia,e-Niro 64 kWh,173 Wh/km,Type 2 CCS,SUV,370 km
+Renault,Zoe ZE50 R110,165 Wh/km,Type 2 CCS,Hatchback,315 km
+Tesla,Cybertruck Tri Motor,267 Wh/km,Type 2 CCS,Pickup,750 km
+Mazda,MX-30,178 Wh/km,Type 2 CCS,SUV,180 km
+Nissan,Leaf e+,172 Wh/km,Type 2 CHAdeMO,Hatchback,325 km
+Lexus,UX 300e,193 Wh/km,Type 2 CHAdeMO,SUV,270 km
+CUPRA,el-Born,181 Wh/km,Type 2 CCS,Hatchback,425 km
+Renault,Zoe ZE50 R135,168 Wh/km,Type 2 CCS,Hatchback,310 km
+Mercedes,EQA,171 Wh/km,Type 2 CCS,SUV,350 km
+Tesla,Model S Long Range,184 Wh/km,Type 2,Liftback,515 km
+Hyundai,Kona Electric 39 kWh,154 Wh/km,Type 2 CCS,SUV,255 km
+Audi,e-tron Sportback 55 quattro,228 Wh/km,Type 2 CCS,SUV,380 km
+Skoda,CITIGOe iV,166 Wh/km,Type 2 CCS,Hatchback,195 km
+SEAT,Mii Electric,166 Wh/km,Type 2 CCS,Hatchback,195 km
+Opel,Ampera-e,173 Wh/km,Type 2 CCS,MPV,335 km
+Porsche,Taycan 4S,195 Wh/km,Type 2 CCS,Sedan,365 km
+Lightyear,One,104 Wh/km,Type 2 CCS,Liftback,575 km
+Aiways,U5,188 Wh/km,Type 2 CCS,SUV,335 km
+Audi,e-tron 55 quattro,237 Wh/km,Type 2 CCS,SUV,365 km
+Tesla,Roadster,206 Wh/km,Type 2 CCS,Cabrio,970 km
+Opel,Mokka-e,176 Wh/km,Type 2 CCS,SUV,255 km
+Skoda,Enyaq iV 80,183 Wh/km,Type 2 CCS,SUV,420 km
+Tesla,Model X Long Range,211 Wh/km,Type 2,SUV,450 km
+Honda,e Advance,168 Wh/km,Type 2 CCS,Hatchback,170 km
+DS,3 Crossback E-Tense,180 Wh/km,Type 2 CCS,SUV,250 km
+Renault,Twingo ZE,164 Wh/km,Type 2,Hatchback,130 km
+Citroen,e-C4,180 Wh/km,Type 2 CCS,SUV,250 km
+Tesla,Model S Performance,188 Wh/km,Type 2,Liftback,505 km
+Renault,Zoe ZE40 R110,161 Wh/km,Type 2 CCS,Hatchback,255 km
+Tesla,Model Y Long Range Performance,177 Wh/km,Type 2 CCS,SUV,410 km
+Nissan,Ariya 87kWh,198 Wh/km,Type 2 CCS,Hatchback,440 km
+Jaguar,I-Pace,232 Wh/km,Type 2 CCS,SUV,365 km
+Ford,Mustang Mach-E ER RWD,200 Wh/km,Type 2 CCS,SUV,450 km
+Porsche,Taycan 4S Plus,197 Wh/km,Type 2 CCS,Sedan,425 km
+Nissan,e-NV200 Evalia,200 Wh/km,Type 1 CHAdeMO,SPV,190 km
+Tesla,Cybertruck Dual Motor,261 Wh/km,Type 2 CCS,Pickup,460 km
+Renault,Kangoo Maxi ZE 33,194 Wh/km,Type 2,SPV,160 km
+Ford,Mustang Mach-E ER AWD,209 Wh/km,Type 2 CCS,SUV,430 km
+BMW,i3s 120 Ah,165 Wh/km,Type 2 CCS,Hatchback,230 km
+Skoda,Enyaq iV 80X,193 Wh/km,Type 2 CCS,SUV,400 km
+Porsche,Taycan Cross Turismo,217 Wh/km,Type 2 CCS,Station,385 km
+Byton,M-Byte 95 kWh 4WD,244 Wh/km,Type 2 CCS,SUV,390 km
+Sono,Sion,156 Wh/km,Type 2 CCS,Hatchback,225 km
+Kia,e-Niro 39 kWh,167 Wh/km,Type 2 CCS,SUV,235 km
+Audi,Q4 Sportback e-tron,188 Wh/km,Type 2 CCS,SUV,410 km
+Smart,EQ forfour,176 Wh/km,Type 2,Hatchback,95 km
+Ford,Mustang Mach-E SR AWD,206 Wh/km,Type 2 CCS,SUV,340 km
+Porsche,Taycan Turbo,215 Wh/km,Type 2 CCS,Sedan,390 km
+Volkswagen,ID.3 1st,171 Wh/km,Type 2 CCS,Hatchback,340 km
+Tesla,Model X Performance,216 Wh/km,Type 2,SUV,440 km
+Smart,EQ fortwo coupe,167 Wh/km,Type 2,Hatchback,100 km
+Ford,Mustang Mach-E SR RWD,194 Wh/km,Type 2 CCS,SUV,360 km
+Mercedes,EQV 300 Long,273 Wh/km,Type 2 CCS,SPV,330 km
+Fiat,500e Hatchback,168 Wh/km,Type 2 CCS,Hatchback,250 km
+Tesla,Cybertruck Single Motor,256 Wh/km,Type 2 CCS,Pickup,390 km
+Audi,e-tron Sportback 50 quattro,219 Wh/km,Type 2 CCS,SUV,295 km
+Skoda,Enyaq iV vRS,193 Wh/km,Type 2 CCS,SUV,400 km
+Skoda,Enyaq iV 60,181 Wh/km,Type 2 CCS,SUV,320 km
+Audi,e-tron S 55 quattro,270 Wh/km,Type 2 CCS,SUV,320 km
+Smart,EQ fortwo cabrio,176 Wh/km,Type 2,Cabrio,95 km
+Kia,e-Soul 64 kWh,175 Wh/km,Type 2 CCS,SUV,365 km
+Nissan,Ariya e-4ORCE 87kWh,207 Wh/km,Type 2 CCS,Hatchback,420 km
+Fiat,500e Convertible,168 Wh/km,Type 2 CCS,Cabrio,250 km
+Volkswagen,ID.3 Pro Performance,171 Wh/km,Type 2 CCS,Hatchback,340 km
+Kia,e-Soul 39 kWh,170 Wh/km,Type 2 CCS,SUV,230 km
+Byton,M-Byte 72 kWh 2WD,222 Wh/km,Type 2 CCS,SUV,325 km
+Nissan,Ariya 63kWh,191 Wh/km,Type 2 CCS,Hatchback,330 km
+Audi,e-tron S Sportback 55 quattro,258 Wh/km,Type 2 CCS,SUV,335 km
+Nissan,Ariya e-4ORCE 63kWh,194 Wh/km,Type 2 CCS,Hatchback,325 km
+Nissan,Ariya e-4ORCE 87kWh Performance,232 Wh/km,Type 2 CCS,Hatchback,375 km
+Byton,M-Byte 95 kWh 2WD,238 Wh/km,Type 2 CCS,SUV,400 km

@@ -1,0 +1,1022 @@
+County,Brand,Count
+ada,Tesla,6
+adams,Polaris,1
+alachua,Bmw,1
+albany,Tesla,6
+alexandria city,Audi,3
+allegheny,Tesla,1
+allen,Toyota,6
+anne arundel,Gem,2
+anne arundel,Tesla,8
+arapahoe,Tesla,1
+atlantic,Audi,30
+atlantic,Bmw,277
+atlantic,Cadillac,40
+atlantic,Chevrolet,391
+atlantic,Chrysler,56
+atlantic,Fiat,4
+atlantic,Fisker automotive,18
+atlantic,Ford,454
+atlantic,Gem,39
+atlantic,Honda,89
+atlantic,Hyundai,141
+atlantic,Jeep,24
+atlantic,Kia,144
+atlantic,Land rover,7
+atlantic,Lexus,4
+atlantic,Lincoln,14
+atlantic,Lucid motors,1
+atlantic,Mercedes-benz,25
+atlantic,Mini,10
+atlantic,Mitsubishi,24
+atlantic,Nissan,125
+atlantic,Polaris,17
+atlantic,Polestar,6
+atlantic,Porsche,72
+atlantic,Smart,39
+atlantic,Subaru,15
+atlantic,Tesla,1221
+atlantic,Th!nk,4
+atlantic,Toyota,455
+atlantic,Volkswagen,48
+atlantic,Volvo,39
+baltimore,Audi,3
+baltimore,Bmw,3
+baltimore,Chevrolet,18
+baltimore,Mitsubishi,13
+baltimore,Polaris,8
+baltimore,Toyota,4
+beaufort,Chevrolet,1
+beaufort,Volvo,1
+bergen,Audi,539
+bergen,Azure dynamics,2
+bergen,Bentley,1
+bergen,Bmw,3547
+bergen,Cadillac,89
+bergen,Chevrolet,1700
+bergen,Chrysler,315
+bergen,Ferrari,4
+bergen,Fiat,62
+bergen,Fisker automotive,27
+bergen,Ford,1954
+bergen,Gem,116
+bergen,Gmc,3
+bergen,Honda,508
+bergen,Hyundai,1084
+bergen,Jaguar,128
+bergen,Jeep,168
+bergen,Karma,7
+bergen,Kia,320
+bergen,Land rover,63
+bergen,Lexus,7
+bergen,Lincoln,64
+bergen,Lucid motors,4
+bergen,Mclaren,11
+bergen,Mercedes-benz,254
+bergen,Mini,160
+bergen,Mitsubishi,100
+bergen,Nissan,822
+bergen,Polaris,67
+bergen,Polestar,80
+bergen,Porsche,855
+bergen,Rivian,1
+bergen,Smart,302
+bergen,Subaru,129
+bergen,Tesla,6806
+bergen,Toyota,2134
+bergen,Volkswagen,209
+bergen,Volvo,728
+bergen,Workhorse,4
+berkshire,Tesla,1
+bexar,Tesla,3
+bladen,Tesla,5
+brazos,Ford,1
+bristol,Tesla,4
+bronx,Tesla,7
+broward,Bmw,7
+broward,Tesla,22
+bucks,Audi,4
+bucks,Bmw,1
+bucks,Ford,3
+bucks,Gem,3
+bucks,Polaris,38
+bucks,Smart,7
+bucks,Tesla,61
+burke,Ford,2
+burlington,Audi,116
+burlington,Bentley,3
+burlington,Bmw,481
+burlington,Cadillac,69
+burlington,Chevrolet,1040
+burlington,Chrysler,158
+burlington,Fiat,26
+burlington,Fisker automotive,18
+burlington,Ford,1154
+burlington,Gem,55
+burlington,Honda,178
+burlington,Hyundai,408
+burlington,Jaguar,25
+burlington,Jeep,47
+burlington,Karma,7
+burlington,Kia,135
+burlington,Land rover,3
+burlington,Lexus,2
+burlington,Lincoln,35
+burlington,Lucid motors,2
+burlington,Mercedes-benz,57
+burlington,Mini,42
+burlington,Mitsubishi,63
+burlington,Nissan,375
+burlington,Polaris,19
+burlington,Polestar,20
+burlington,Porsche,148
+burlington,Rivian,1
+burlington,Smart,22
+burlington,Subaru,25
+burlington,Tesla,2014
+burlington,Tianjin qingyuan electric vehicle co,1
+burlington,Toyota,948
+burlington,Volkswagen,76
+burlington,Volvo,173
+butler,Jeep,1
+cambria,Tesla,3
+camden,Audi,161
+camden,Bmw,478
+camden,Cadillac,39
+camden,Chevrolet,806
+camden,Chrysler,121
+camden,Ferrari,1
+camden,Fiat,7
+camden,Fisker automotive,8
+camden,Ford,1158
+camden,Gem,38
+camden,Gmc,1
+camden,Honda,139
+camden,Hyundai,380
+camden,Jaguar,24
+camden,Jeep,60
+camden,Kia,184
+camden,Land rover,3
+camden,Lexus,2
+camden,Lincoln,10
+camden,Mercedes-benz,34
+camden,Mini,45
+camden,Mitsubishi,63
+camden,Nissan,436
+camden,Polaris,52
+camden,Polestar,16
+camden,Porsche,141
+camden,Smart,21
+camden,Subaru,30
+camden,Tesla,1820
+camden,Toyota,913
+camden,Volkswagen,89
+camden,Volvo,143
+cape may,Audi,27
+cape may,Bmw,66
+cape may,Cadillac,37
+cape may,Chevrolet,210
+cape may,Chrysler,26
+cape may,Fiat,11
+cape may,Ford,358
+cape may,Gem,85
+cape may,Honda,53
+cape may,Hyundai,49
+cape may,Jeep,14
+cape may,Kia,45
+cape may,Land rover,7
+cape may,Lincoln,14
+cape may,Mercedes-benz,1
+cape may,Mini,2
+cape may,Mitsubishi,11
+cape may,Nissan,43
+cape may,Polaris,127
+cape may,Porsche,34
+cape may,Smart,7
+cape may,Subaru,13
+cape may,Tesla,700
+cape may,Toyota,190
+cape may,Volkswagen,29
+cape may,Volvo,29
+carroll,Jaguar,3
+cecil,Gem,2
+chesapeake city,Tesla,1
+chester,Ford,3
+chester,Gem,21
+chester,Polaris,28
+chester,Porsche,3
+chester,Tesla,29
+chester,Volvo,2
+chittenden,Tesla,5
+clark,Tesla,7
+clinton,Tesla,4
+cobb,Tesla,9
+collier,Ford,2
+collier,Tesla,10
+collin,Tesla,18
+collin,Toyota,20
+columbia,Tesla,1
+contra costa,Tesla,9
+contra costa,Volvo,3
+cook,Audi,3
+cook,Bmw,13
+cook,Chevrolet,4
+cook,Ford,7
+cook,Kia,4
+cook,Mercedes-benz,13
+cook,Polaris,1
+cook,Porsche,3
+cook,Tesla,6
+cook,Volkswagen,1
+cowlitz,Toyota,2
+cumberland,Audi,12
+cumberland,Bmw,78
+cumberland,Cadillac,5
+cumberland,Chevrolet,114
+cumberland,Chrysler,38
+cumberland,Ford,155
+cumberland,Gem,22
+cumberland,Honda,32
+cumberland,Hyundai,66
+cumberland,Jaguar,1
+cumberland,Jeep,12
+cumberland,Kia,34
+cumberland,Lincoln,2
+cumberland,Lucid motors,1
+cumberland,Mitsubishi,22
+cumberland,Nissan,45
+cumberland,Polaris,8
+cumberland,Polestar,1
+cumberland,Porsche,4
+cumberland,Smart,25
+cumberland,Tesla,335
+cumberland,Toyota,200
+cumberland,Volkswagen,5
+cumberland,Volvo,13
+cuyahoga,Chevrolet,1
+cuyahoga,Ford,1
+dallas,Tesla,2
+dauphin,Tesla,1
+dawson,Gem,1
+dekalb,Chevrolet,1
+delaware,Chevrolet,2
+delaware,Gem,14
+delaware,Polaris,67
+delaware,Tesla,47
+denver,Tianjin qingyuan electric vehicle co,2
+district of columbia,Tesla,6
+douglas,Tesla,5
+dupage,Audi,1
+dupage,Bmw,12
+dupage,Ford,9
+dupage,Nissan,4
+dupage,Tesla,21
+duval,Tesla,3
+el paso,Gem,1
+essex,Audi,305
+essex,Bmw,1497
+essex,Cadillac,31
+essex,Chevrolet,1185
+essex,Chrysler,261
+essex,Ferrari,1
+essex,Fiat,24
+essex,Fisker automotive,29
+essex,Ford,1172
+essex,Gem,25
+essex,Genesis,2
+essex,Honda,263
+essex,Hyundai,459
+essex,Jaguar,47
+essex,Jeep,80
+essex,Kia,235
+essex,Land rover,21
+essex,Lexus,2
+essex,Lincoln,24
+essex,Lucid motors,5
+essex,Mercedes-benz,229
+essex,Mini,55
+essex,Mitsubishi,84
+essex,Nissan,570
+essex,Polaris,4
+essex,Polestar,56
+essex,Porsche,367
+essex,Smart,94
+essex,Subaru,86
+essex,Tesla,3005
+essex,Toyota,923
+essex,Volkswagen,144
+essex,Volvo,535
+fairfax,Bmw,6
+fairfax,Tesla,5
+fairfield,Bmw,1
+fairfield,Tesla,33
+falls church city,Polaris,1
+fluvanna,Tesla,3
+franklin,Bmw,37
+franklin,Chevrolet,19
+franklin,Mini,6
+franklin,Tesla,7
+franklin,Toyota,1
+fulton,Bmw,12
+fulton,Ford,22
+fulton,Porsche,9
+fulton,Tesla,32
+fulton,Toyota,10
+gloucester,Audi,82
+gloucester,Bmw,292
+gloucester,Cadillac,30
+gloucester,Chevrolet,509
+gloucester,Chrysler,104
+gloucester,Fiat,11
+gloucester,Fisker automotive,20
+gloucester,Ford,625
+gloucester,Gem,26
+gloucester,Honda,95
+gloucester,Hyundai,162
+gloucester,Jaguar,19
+gloucester,Jeep,44
+gloucester,Kia,74
+gloucester,Lexus,1
+gloucester,Lincoln,34
+gloucester,Lucid motors,1
+gloucester,Mercedes-benz,10
+gloucester,Mini,18
+gloucester,Mitsubishi,54
+gloucester,Nissan,201
+gloucester,Polaris,52
+gloucester,Polestar,3
+gloucester,Porsche,65
+gloucester,Smart,2
+gloucester,Subaru,24
+gloucester,Tesla,1168
+gloucester,Tianjin qingyuan electric vehicle co,20
+gloucester,Toyota,603
+gloucester,Volkswagen,46
+gloucester,Volvo,25
+greenville,Tesla,7
+hamilton,Tesla,1
+hampshire,Toyota,4
+harris,Chevrolet,5
+harris,Gem,2
+harris,Polaris,1
+harris,Tesla,18
+hartford,Ford,3
+hartford,Tesla,4
+hennepin,Chevrolet,4
+hennepin,Ford,7
+hennepin,Mini,1
+hennepin,Toyota,1
+henrico,Chrysler,8
+henrico,Tesla,7
+hidalgo,Tesla,2
+hillsborough,Porsche,3
+hillsborough,Tesla,18
+hockley,Polaris,1
+honolulu,Bmw,3
+honolulu,Tesla,6
+hudson,Audi,165
+hudson,Bmw,721
+hudson,Cadillac,2
+hudson,Chevrolet,428
+hudson,Chrysler,81
+hudson,Fiat,20
+hudson,Fisker automotive,3
+hudson,Ford,635
+hudson,Gem,21
+hudson,Genesis,1
+hudson,Honda,131
+hudson,Hyundai,315
+hudson,Jaguar,40
+hudson,Jeep,46
+hudson,Karma,3
+hudson,Kia,97
+hudson,Land rover,17
+hudson,Lexus,2
+hudson,Lincoln,8
+hudson,Lucid motors,2
+hudson,Mercedes-benz,105
+hudson,Mini,31
+hudson,Mitsubishi,23
+hudson,Nissan,244
+hudson,Polaris,18
+hudson,Polestar,19
+hudson,Porsche,187
+hudson,Rivian,1
+hudson,Smart,119
+hudson,Subaru,41
+hudson,Tesla,1747
+hudson,Toyota,673
+hudson,Volkswagen,39
+hudson,Volvo,174
+hunterdon,Audi,137
+hunterdon,Bmw,378
+hunterdon,Cadillac,13
+hunterdon,Chevrolet,593
+hunterdon,Chrysler,54
+hunterdon,Fiat,15
+hunterdon,Ford,321
+hunterdon,Gem,3
+hunterdon,Honda,157
+hunterdon,Hyundai,167
+hunterdon,Jaguar,15
+hunterdon,Jeep,30
+hunterdon,Kia,37
+hunterdon,Lexus,1
+hunterdon,Lincoln,7
+hunterdon,Lucid motors,1
+hunterdon,Mercedes-benz,13
+hunterdon,Mini,6
+hunterdon,Mitsubishi,52
+hunterdon,Nissan,157
+hunterdon,Polaris,5
+hunterdon,Polestar,12
+hunterdon,Porsche,70
+hunterdon,Smart,28
+hunterdon,Subaru,47
+hunterdon,Tesla,1487
+hunterdon,Toyota,589
+hunterdon,Volkswagen,45
+hunterdon,Volvo,88
+ingham,Tesla,6
+iredell,Tesla,3
+jefferson,Chevrolet,2
+jefferson,Ford,1
+johnson,Tesla,11
+kent,Tesla,4
+kent,Toyota,3
+king,Tesla,4
+kings,Bmw,7
+kings,Ford,2
+kings,Honda,5
+kings,Jeep,1
+kings,Porsche,2
+kings,Smart,6
+kings,Tesla,94
+kings,Toyota,5
+kings,Volvo,2
+lake,Audi,18
+lake,Ford,1
+lake,Hyundai,2
+lake,Tesla,3
+lake,Volkswagen,3
+lake,Volvo,7
+lancaster,Gem,7
+lane,Tesla,3
+lebanon,Tesla,4
+lee,Mercedes-benz,7
+lee,Tesla,9
+lehigh,Polaris,19
+lehigh,Tesla,1
+liberty,Gem,1
+litchfield,Ford,1
+los angeles,Audi,4
+los angeles,Ford,1
+los angeles,Honda,6
+los angeles,Porsche,2
+los angeles,Subaru,7
+los angeles,Tesla,12
+los angeles,Toyota,10
+los angeles,Volvo,2
+loudoun,Gem,11
+loudoun,Nissan,4
+loudoun,Porsche,2
+loudoun,Toyota,1
+lubbock,Gem,1
+macomb,Tesla,6
+maricopa,Chevrolet,1
+maricopa,Ford,4
+maricopa,Tesla,6
+maricopa,Toyota,7
+marion,Toyota,4
+marion,Volvo,1
+mecklenburg,Ford,1
+mecklenburg,Tesla,13
+mecklenburg,Toyota,2
+mercer,Audi,174
+mercer,Azure dynamics,11
+mercer,Bmw,829
+mercer,Cadillac,42
+mercer,Chevrolet,1116
+mercer,Chrysler,158
+mercer,Ferrari,2
+mercer,Fiat,17
+mercer,Fisker automotive,14
+mercer,Ford,677
+mercer,Gem,56
+mercer,Honda,195
+mercer,Hyundai,387
+mercer,Jaguar,49
+mercer,Jeep,50
+mercer,Kia,180
+mercer,Land rover,5
+mercer,Lincoln,5
+mercer,Lucid motors,2
+mercer,Mercedes-benz,60
+mercer,Mini,86
+mercer,Mitsubishi,95
+mercer,Nissan,513
+mercer,Polaris,64
+mercer,Polestar,35
+mercer,Porsche,209
+mercer,Smart,30
+mercer,Subaru,69
+mercer,Tesla,1986
+mercer,Toyota,859
+mercer,Volkswagen,141
+mercer,Volvo,336
+miami-dade,Audi,1
+miami-dade,Bmw,5
+miami-dade,Mercedes-benz,1
+miami-dade,Tesla,25
+middlesex,Audi,243
+middlesex,Bmw,1343
+middlesex,Cadillac,42
+middlesex,Chevrolet,1244
+middlesex,Chrysler,200
+middlesex,Ferrari,1
+middlesex,Fiat,31
+middlesex,Fisker automotive,6
+middlesex,Ford,1297
+middlesex,Gem,30
+middlesex,Honda,373
+middlesex,Hyundai,661
+middlesex,Jaguar,67
+middlesex,Jeep,83
+middlesex,Karma,3
+middlesex,Kia,297
+middlesex,Land rover,19
+middlesex,Lexus,1
+middlesex,Lincoln,30
+middlesex,Lucid motors,1
+middlesex,Mercedes-benz,171
+middlesex,Mini,56
+middlesex,Mitsubishi,86
+middlesex,Nissan,740
+middlesex,Polaris,42
+middlesex,Polestar,37
+middlesex,Porsche,327
+middlesex,Smart,147
+middlesex,Subaru,62
+middlesex,Tesla,3611
+middlesex,Toyota,1393
+middlesex,Volkswagen,165
+middlesex,Volvo,274
+milwaukee,Chevrolet,2
+milwaukee,Ford,1
+milwaukee,Tesla,2
+mobile,Polestar,1
+mobile,Volvo,5
+monmouth,Audi,299
+monmouth,Bentley,2
+monmouth,Bmw,1411
+monmouth,Cadillac,76
+monmouth,Chevrolet,1398
+monmouth,Chrysler,134
+monmouth,Ferrari,2
+monmouth,Fiat,24
+monmouth,Fisker automotive,42
+monmouth,Ford,1570
+monmouth,Gem,238
+monmouth,Honda,315
+monmouth,Hyundai,661
+monmouth,Jaguar,74
+monmouth,Jeep,131
+monmouth,Karma,1
+monmouth,Kia,209
+monmouth,Land rover,26
+monmouth,Lincoln,60
+monmouth,Lucid motors,1
+monmouth,Mclaren,11
+monmouth,Mercedes-benz,231
+monmouth,Mini,42
+monmouth,Mitsubishi,91
+monmouth,Nissan,547
+monmouth,Polaris,177
+monmouth,Polestar,34
+monmouth,Porsche,676
+monmouth,Rivian,2
+monmouth,Smart,94
+monmouth,Subaru,90
+monmouth,Tesla,4590
+monmouth,Toyota,1314
+monmouth,Volkswagen,94
+monmouth,Volvo,373
+monroe,Tesla,13
+montgomery,Audi,4
+montgomery,Bmw,2
+montgomery,Chevrolet,10
+montgomery,Ford,11
+montgomery,Gem,9
+montgomery,Hyundai,1
+montgomery,Jaguar,4
+montgomery,Polaris,61
+montgomery,Porsche,2
+montgomery,Tesla,99
+montgomery,Toyota,21
+montour,Tesla,2
+morris,Audi,333
+morris,Azure dynamics,11
+morris,Bmw,1155
+morris,Cadillac,28
+morris,Chevrolet,1280
+morris,Chrysler,209
+morris,Ferrari,3
+morris,Fiat,14
+morris,Fisker automotive,4
+morris,Ford,1225
+morris,Gem,88
+morris,Genesis,3
+morris,Honda,311
+morris,Hyundai,456
+morris,Jaguar,64
+morris,Jeep,113
+morris,Karma,1
+morris,Kia,137
+morris,Land rover,16
+morris,Lexus,5
+morris,Lincoln,46
+morris,Lucid motors,2
+morris,Mercedes-benz,204
+morris,Mini,54
+morris,Mitsubishi,42
+morris,Nissan,506
+morris,Polaris,21
+morris,Polestar,57
+morris,Porsche,445
+morris,Rivian,1
+morris,Smart,51
+morris,Subaru,60
+morris,Tesla,4125
+morris,Toyota,1229
+morris,Volkswagen,167
+morris,Volvo,451
+nassau,Audi,2
+nassau,Bmw,6
+nassau,Tesla,8
+natrona,Gem,2
+natrona,Polaris,1
+new castle,Honda,2
+new castle,Mercedes-benz,1
+new castle,Tesla,10
+new castle,Toyota,2
+new haven,Tesla,2
+new york,Audi,11
+new york,Bmw,21
+new york,Chevrolet,20
+new york,Chrysler,9
+new york,Ford,6
+new york,Hyundai,3
+new york,Jaguar,6
+new york,Karma,10
+new york,Kia,2
+new york,Lincoln,2
+new york,Mercedes-benz,2
+new york,Mini,7
+new york,Proterra,10
+new york,Smart,1
+new york,Subaru,6
+new york,Tesla,268
+new york,Toyota,8
+new york,Volvo,9
+norfolk,Bmw,1
+norfolk,Tesla,3
+northampton,Chevrolet,1
+northampton,Ford,1
+northampton,Tesla,2
+oakland,Chrysler,7
+ocean,Audi,85
+ocean,Bentley,3
+ocean,Bmw,435
+ocean,Cadillac,56
+ocean,Chevrolet,884
+ocean,Chrysler,73
+ocean,Fiat,11
+ocean,Fisker automotive,11
+ocean,Ford,965
+ocean,Gem,64
+ocean,Honda,189
+ocean,Hyundai,454
+ocean,Jaguar,4
+ocean,Jeep,60
+ocean,Kia,234
+ocean,Land rover,6
+ocean,Lexus,3
+ocean,Lincoln,26
+ocean,Lucid motors,1
+ocean,Mercedes-benz,44
+ocean,Mini,24
+ocean,Mitsubishi,57
+ocean,Nissan,273
+ocean,Polaris,45
+ocean,Polestar,22
+ocean,Porsche,116
+ocean,Smart,34
+ocean,Subaru,66
+ocean,Tesla,1863
+ocean,Toyota,902
+ocean,Volkswagen,33
+ocean,Volvo,153
+oldham,Tesla,1
+oneida,Chevrolet,2
+onondaga,Chevrolet,3
+onondaga,Kia,1
+onslow,Tesla,4
+orange,Bmw,3
+orange,Chevrolet,3
+orange,Chrysler,1
+orange,Kia,8
+orange,Nissan,3
+orange,Tesla,4
+orange,Toyota,2
+palm beach,Bmw,3
+palm beach,Chevrolet,12
+palm beach,Ford,3
+palm beach,Lincoln,2
+palm beach,Porsche,7
+palm beach,Tesla,75
+park,Gem,1
+pasco,Mitsubishi,5
+passaic,Audi,69
+passaic,Bmw,722
+passaic,Cadillac,12
+passaic,Chevrolet,628
+passaic,Chrysler,66
+passaic,Fiat,5
+passaic,Fisker automotive,5
+passaic,Ford,813
+passaic,Gem,12
+passaic,Honda,125
+passaic,Hyundai,196
+passaic,Jaguar,12
+passaic,Jeep,32
+passaic,Kia,78
+passaic,Land rover,4
+passaic,Lexus,2
+passaic,Lincoln,14
+passaic,Lucid motors,1
+passaic,Mercedes-benz,75
+passaic,Mini,23
+passaic,Mitsubishi,29
+passaic,Nissan,200
+passaic,Polestar,16
+passaic,Porsche,101
+passaic,Smart,48
+passaic,Subaru,55
+passaic,Tesla,1723
+passaic,Toyota,642
+passaic,Volkswagen,42
+passaic,Volvo,75
+philadelphia,Ford,6
+philadelphia,Gem,7
+philadelphia,Hyundai,2
+philadelphia,Polaris,18
+philadelphia,Porsche,2
+philadelphia,Tesla,78
+philadelphia,Tianjin qingyuan electric vehicle co,4
+philadelphia,Toyota,2
+pike,Ford,2
+pima,Tesla,4
+pinellas,Tesla,2
+pittsburg,Gem,1
+polk,Gem,1
+polk,Polaris,1
+prince george's,Tesla,21
+prince william,Tesla,1
+queens,Bmw,13
+queens,Ford,3
+queens,Kia,1
+queens,Nissan,4
+queens,Tesla,52
+randolph,Ford,4
+richmond,Bmw,10
+richmond,Gem,11
+richmond,Tesla,32
+richmond city,Tesla,2
+riverside,Bmw,2
+riverside,Ford,2
+rockingham,Tesla,1
+rockland,Bmw,4
+rockland,Chevrolet,13
+rockland,Tesla,72
+sacramento,Kia,3
+sacramento,Nissan,7
+salem,Audi,1
+salem,Bmw,18
+salem,Chevrolet,135
+salem,Chrysler,20
+salem,Ford,134
+salem,Gem,20
+salem,Honda,7
+salem,Hyundai,9
+salem,Jaguar,7
+salem,Jeep,9
+salem,Kia,28
+salem,Land rover,4
+salem,Lincoln,1
+salem,Mercedes-benz,2
+salem,Mini,6
+salem,Mitsubishi,5
+salem,Nissan,69
+salem,Porsche,5
+salem,Tesla,186
+salem,Toyota,101
+salem,Volkswagen,6
+salem,Volvo,1
+san diego,Tesla,4
+san diego,Toyota,1
+san francisco,Ford,1
+san francisco,Tesla,6
+san mateo,Audi,9
+san mateo,Bmw,6
+san mateo,Chrysler,9
+san mateo,Mercedes-benz,8
+san mateo,Mini,6
+san mateo,Tesla,17
+san mateo,Volvo,5
+santa barbara,Tesla,2
+santa clara,Ford,4
+santa clara,Nissan,2
+santa clara,Tesla,25
+sarasota,Kia,4
+sarasota,Tesla,9
+seminole,Tesla,6
+somerset,Audi,262
+somerset,Bentley,2
+somerset,Bmw,1005
+somerset,Cadillac,55
+somerset,Chevrolet,928
+somerset,Chrysler,133
+somerset,Fiat,8
+somerset,Fisker automotive,9
+somerset,Ford,712
+somerset,Gem,31
+somerset,Honda,167
+somerset,Hyundai,224
+somerset,Jaguar,29
+somerset,Jeep,46
+somerset,Kia,165
+somerset,Land rover,9
+somerset,Lexus,2
+somerset,Lincoln,26
+somerset,Lucid motors,3
+somerset,Mclaren,6
+somerset,Mercedes-benz,95
+somerset,Mini,19
+somerset,Mitsubishi,47
+somerset,Mitsubishi fuso,1
+somerset,Nissan,466
+somerset,Polaris,32
+somerset,Polestar,27
+somerset,Porsche,380
+somerset,Proterra,1
+somerset,Rivian,1
+somerset,Smart,75
+somerset,Smith electric vehicles,5
+somerset,Subaru,40
+somerset,Tesla,2500
+somerset,Th!nk,1
+somerset,Toyota,843
+somerset,Volkswagen,99
+somerset,Volvo,319
+somerset,Workhorse,1
+st. clair,Tesla,2
+st. louis,Nissan,10
+st. louis city,Porsche,2
+st. lucie,Ford,4
+stewart,Tesla,7
+suffolk,Audi,1
+suffolk,Ford,11
+suffolk,Porsche,8
+suffolk,Tesla,18
+summit,Tesla,1
+summit,Toyota,5
+sussex,Audi,45
+sussex,Bmw,183
+sussex,Cadillac,9
+sussex,Chevrolet,427
+sussex,Chrysler,25
+sussex,Fiat,2
+sussex,Ford,444
+sussex,Gem,2
+sussex,Honda,63
+sussex,Hyundai,160
+sussex,Jaguar,17
+sussex,Jeep,22
+sussex,Karma,1
+sussex,Kia,19
+sussex,Lincoln,6
+sussex,Mercedes-benz,42
+sussex,Mini,10
+sussex,Mitsubishi,22
+sussex,Nissan,125
+sussex,Polaris,13
+sussex,Polestar,8
+sussex,Porsche,44
+sussex,Rivian,1
+sussex,Smart,15
+sussex,Subaru,47
+sussex,Tesla,768
+sussex,Toyota,432
+sussex,Volkswagen,44
+sussex,Volvo,57
+tarrant,Azure dynamics,2
+tarrant,Chevrolet,11
+tarrant,Jeep,1
+tarrant,Mercedes-benz,6
+tarrant,Mitsubishi fuso,2
+teton,Polaris,1
+tulsa,Chrysler,3
+tulsa,Ford,3
+tulsa,Honda,2
+tulsa,Hyundai,3
+tulsa,Mini,1
+tulsa,Mitsubishi,2
+tulsa,Polestar,1
+tulsa,Tesla,17
+tulsa,Toyota,1
+ulster,Kia,1
+union,Audi,189
+union,Azure dynamics,11
+union,Bentley,4
+union,Bmw,887
+union,Cadillac,68
+union,Chevrolet,899
+union,Chrysler,135
+union,Ferrari,3
+union,Fiat,26
+union,Fisker automotive,12
+union,Ford,738
+union,Gem,27
+union,Honda,217
+union,Hyundai,323
+union,Jaguar,54
+union,Jeep,53
+union,Kia,145
+union,Land rover,17
+union,Lexus,2
+union,Lincoln,22
+union,Lucid motors,2
+union,Mercedes-benz,101
+union,Mini,32
+union,Mitsubishi,87
+union,Nissan,454
+union,Polaris,32
+union,Polestar,29
+union,Porsche,180
+union,Smart,57
+union,Subaru,57
+union,Tesla,2224
+union,Toyota,878
+union,Volkswagen,77
+union,Volvo,242
+vanderburgh,Tesla,1
+ventura,Volkswagen,2
+ventura,Volvo,3
+volusia,Tesla,2
+wake,Ford,1
+wake,Tesla,2
+waldo,Tesla,2
+warren,Audi,21
+warren,Bmw,101
+warren,Chevrolet,268
+warren,Chrysler,19
+warren,Ford,198
+warren,Gem,15
+warren,Honda,56
+warren,Hyundai,75
+warren,Jeep,10
+warren,Kia,17
+warren,Land rover,5
+warren,Lexus,1
+warren,Lincoln,6
+warren,Mercedes-benz,1
+warren,Mini,1
+warren,Mitsubishi,5
+warren,Nissan,61
+warren,Polestar,5
+warren,Porsche,18
+warren,Smart,4
+warren,Subaru,20
+warren,Tesla,450
+warren,Toyota,241
+warren,Volkswagen,9
+warren,Volvo,37
+washington,Nissan,1
+washington,Tesla,6
+washington,Toyota,1
+wayne,Bmw,2
+wayne,Ford,2
+westchester,Bmw,4
+westchester,Polaris,6
+westchester,Tesla,16
+westchester,Toyota,2
+westmoreland,Volvo,1
+will,Tesla,11
+williamson,Ford,10
+williamson,Lincoln,2
+winnebago,Tesla,11
+winnebago,Toyota,1
+worcester,Subaru,3
+worcester,Tesla,4
+yavapai,Ford,1
+york,Tesla,6

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Municipality List</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+	.container {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+    h1 {
+      font-size: 40px;
+      margin-bottom: 20px;
+    }
+    select {
+      font-size: 24px;
+      padding: 10px;
+      border-radius: 10px;
+      border: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Explore New Jersey's Municipalities</h1>
+  <h4>Discover key insights into energy usage and sustainability practices across New Jersey's municipalities. Choose a municipality from the dropdown menu below to access detailed data on population density, electric vehicle ownership, carbon emissions, and so much more!</h4>
+  <div class="info-section">
+    <select onchange="window.location.href=this.value">
+      <option selected disabled>Choose a municipality</option>
+      {% for county in county %}
+        <option value="/map/{{ county }}">{{ county }}</option>
+      {% endfor %}
+    </select>
+</body>
+</html>

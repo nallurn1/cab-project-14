@@ -1,0 +1,269 @@
+<!doctype html>
+<html>
+  <head>
+    <title>{{ county }}</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+      }
+      h1 {
+        font-size: 36px;
+        margin-bottom: 20px;
+      }
+      h3 {
+        font-size: 24px;
+        margin-bottom: 10px;
+      }
+      p {
+        margin-bottom: 10px;
+      }
+      label {
+        font-weight: bold;
+      }
+      select {
+        margin-right: 10px;
+      }
+      button {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-top: 10px;
+        cursor: pointer;
+      }
+      .list-group {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+      .list-group-item {
+        background-color: #f2f2f2;
+        padding: 10px 20px;
+        border: 1px solid #ddd;
+        margin-bottom: -1px;
+      }
+      .list-group-item:last-child {
+        margin-bottom: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+	<h1>Discover {{ county }}: Sustainability and Energy Usage Insights</h1>
+	<h4>Explore our comprehensive data on {{ county }} to learn how this municipality can become more sustainable and energy-efficient. Our platform provides detailed statistics on population density, electric vehicle ownership, carbon emissions, and much more. With this information, you can gain insights into areas where {{ county }} can improve its sustainability practices and energy usage.</h4>
+	<h4>If you're interested in exploring ways to improve your municipality's green energy usage, we recommend checking out <a href="https://www.sustainablejersey.com">Sustainable Jersey</a>, a website dedicated to promoting sustainable practices throughout New Jersey. In addition, we encourage you to connect with your local representatives and green energy initiatives in {{ county }} to help drive change in your community!</h4>
+
+	<div class="info-section">
+	  <h3>Population Density</h3>
+	  <h4>Units: people per square mile</h4>
+	  <ul class="list-group">
+
+	    <li class="list-group-item">In the year of 2015: {{ pop_norm[0] }} </li>
+	    <li class="list-group-item">In the year of 2020: {{ pop_norm[1] }} </li>
+
+	  </ul>
+
+	</div>
+
+	<h3>Square Miles per Person</h3>
+	<h4>Units: square miles per person</h4>
+	<div class="info-section">
+	  <ul class="list-group">
+
+	    <li class="list-group-item">In the year of 2015: {{ sqmiles_norm[0] }} </li>
+
+	    <li class="list-group-item">In the year of 2020: {{ sqmiles_norm[1] }} </li>
+
+	  </ul>
+
+	</div>
+
+	<div class="info-section">
+	  <h3>Electric Vehicles Ownership</h3>
+	  <h4>Units: electric vehicles per total personal vehicles</h4>
+	  <ul class="list-group">
+	    <li class="list-group-item">In the year of 2015: {{ ev_norm[0] }} </li>
+	    <li class="list-group-item">In the year of 2020: {{ ev_norm[1] }} </li>
+	  </ul>
+	</div>
+
+		<div class="info-section">
+		  <h3>Emissions per Capita</h3>
+	      <h4>Units: total emissions by total population </h4>
+		  <ul class="list-group">
+	      	<li class="list-group-item">In the year of 2020: {{ emissions_per_capita}} </li>
+	     </ul>
+		</div>
+
+			<div class="container">
+	  <div class="row">
+		<div class="col-md-12">
+		  <h2 class="text-center mb-4">Municipality Scores</h2>
+		  <p>We created a system of ranking if each municipality is bad, ok, or good through a scale of 0 to 10 for sustainable energy and efficiency. The score looks at 3 categories to generate 3 subscores that get combined to result the total score:</p>
+		  <ol>
+		    <li>The total number of CO2 a particular municipality produces into the air (30% weight)</li>
+		    <li>The total percentage of EV cars owned out of all cars in a particular municipality (50% weight)</li>
+		    <li>The population density of a particular municipality (20% weight)</li>
+		  </ol>
+		  <p>The score range is from 0 to 10, where a score from 0 to 0.3 is considered bad, 0.3 to 0.6 is considered okay, and 0.6 to 10 is considered good.</p>
+		</div>
+	  </div>
+	 
+	  <div class="row mb-4">
+		<div class="col-md-6">
+		  <div class="card">
+		    <div class="card-header">
+		      <h3 class="text-center">Score In 2015:</h3>
+		    </div>
+		    <div class="card-body text-center">
+		      <h4 class="card-title">{{ scr2015 }}</h4>
+		      <p class="card-text">
+		        {% if scr2015 <= 0.3 %}
+		        <span class="text-danger">Bad</span>
+		        {% elif scr2015 <= 0.6 %}
+		        <span class="text-warning">Okay</span>
+		        {% else %}
+		        <span class="text-success">Good</span>
+		        {% endif %}
+		      </p>
+		    </div>
+		  </div>
+		</div>
+	   
+		<div class="col-md-6">
+		  <div class="card">
+		    <div class="card-header">
+		      <h3 class="text-center">Score In 2020:</h3>
+		    </div>
+		    <div class="card-body text-center">
+		      <h4 class="card-title">{{ scr2020 }}</h4>
+		      <p class="card-text">
+		        {% if scr2020 <= 0.3 %}
+		        <span class="text-danger">Bad, there is room for improvement. Please do not be discouraged! Take a look at the Energy actions tab from <a href="https://www.sustainablejersey.com/actions/#close">Sustainable Jersey</a> website, and talk to your local representatives and local green energy initiatives in your municipality to change this!</span>
+		        {% elif scr2020 <= 0.6 %}
+		        <span class="text-warning">Okay, your municipality might eligible for points as listed from the Energy actions tab from <a href="https://www.sustainablejersey.com/actions/#close">Sustainable Jersey</a> website. </span>
+		        {% else %}
+		        <span class="text-success">Good, your municipality should eligible for points as listed from the Energy actions tab from <a href="https://www.sustainablejersey.com/actions/#close">Sustainable Jersey</a> website. </span>
+		        {% endif %}
+		      </p>
+		    </div>
+		  </div>
+		</div>
+	  </div>
+
+		<h3>Types of Cars Owned</h3>
+		<div class="info-section">
+		  <details>
+			<summary>Most 5 Popular Car Brands</summary>
+			<table class="car-table">
+			  <thead>
+				<tr>
+				  <th>Brand</th>
+				  <th>Avg Acceleration (s)</th>
+				  <th>Avg TopSpeed (km/h)</th>
+				  <th>Avg Range (km)</th>
+				  <th>Avg Efficiency (wh/km)</th>
+				  <!-- <th>Number of Cars</th> -->
+				</tr>
+			  </thead>
+			  <tbody>
+			  <tr>
+				  {% for i in range(5) %}
+				  <td>{{ brand_info[i][0] }}</td>
+				  <td>{{ brand_info[i][1] }}</td>
+				  <td>{{ brand_info[i][2] }}</td>
+				  <td>{{ brand_info[i][3] }}</td>
+				  <td>{{ brand_info[i][4] }}</td></tr>
+				{% endfor %}
+			  </tbody>
+			</table>
+			<table class="car-table">
+			  <thead>
+				<tr>
+				  <th>Brand</th>
+				  <th>Avg FastCharge (km/h)</th>
+				  <th>Avg Price (Euro)</th>
+				  <th>Avg Price (USD)</th>
+				</tr>
+			  </thead>
+			  <tbody>
+			  <tr>
+				  {% for i in range(5) %}
+				  <td>{{ brand_info[i][0] }}</td>
+				  <td>{{ brand_info[i][5] }}</td>
+				  <td>{{ brand_info[i][6] }}</td>
+				  <td>{{ brand_info[i][7] }}</td></tr>
+				{% endfor %}
+			  </tbody>
+			</table>
+		  </details>
+		</div>
+
+		<style>
+		  .car-table {
+			border-collapse: collapse;
+			width: 100%;
+			margin-bottom: 20px;
+		  }
+
+		  .car-table th,
+		  .car-table td {
+			padding: 10px;
+			text-align: left;
+			border-bottom: 1px solid #ddd;
+		  }
+
+		  .car-table th {
+			background-color: #f2f2f2;
+			font-weight: bold;
+		  }
+
+		  .car-table td {
+			font-size: 16px;
+		  }
+
+		  .car-table tr:hover {
+			background-color: #f5f5f5;
+		  }
+		</style>
+
+		<div class="info-section">
+		 <!-- COMMENTED OUT QUERY THAT DOES NOT WORK -->
+		  <!-- <h3>Car Ownership Averages (NOT WORKING)</h3> -->
+		  <!-- <p>{{ brand_info }}</p> -->
+
+      <h3>Range Selector</h3>
+	  <h4>Use this featute to see within a 5% to 15% range of all municipality that share similar Electric Vehicles Ownership and Carbon Emissions based on population density</h4>
+      <form method="get">
+        <label for="range">Select Range:</label>
+        <select name="range" id="range">
+          <option value="5">5%</option>
+          <option value="10">10%</option>
+          <option value="15">15%</option>
+        </select>
+        <button type="submit">Submit</button>
+      </form>
+
+      <h3>List of municipality with similar Electric Vehicles Ownership</h3>
+      <ul class="list-group">
+        {% for c in counties_ev %}
+          <li class="list-group-item">{{ c[0] }}, {{ c[1] }}</li>
+        {% endfor %}
+      </ul>
+
+      <h3>List of municipality with similar Carbon Emissions</h3>
+      <ul class="list-group">
+        {% for c in counties_em %}
+          <li class="list-group-item">{{ c[0] }}, {{ c[1] }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    
